@@ -13,7 +13,7 @@ To increase the immersion and create fear in the user I will rely heaviliy on so
 
 ## Requirements
 
-**Minimum requirements**
+**Minimal**
 
  - 1 fully furnished room
  - minimal interactions with the environment
@@ -21,7 +21,7 @@ To increase the immersion and create fear in the user I will rely heaviliy on so
  - scary sound effects
  - experience the last scene from the novella
 
-**Best case**
+**Optimal**
 
  - multiple rooms 
  - movement by means of teleportation
